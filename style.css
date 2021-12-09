@@ -84,7 +84,7 @@ p {
 }
 
 input, button {
-  height: 56px;
+  height: 48px;
   line-height: 28px;
   border: 1px solid #333333;
   box-sizing: border-box;
@@ -252,6 +252,11 @@ button {
     max-width: 445px;
     width: 100%;
   }
+
+  input, button {
+    height: 56px;
+  }
+  
   
   input {
     max-width: 345px;
